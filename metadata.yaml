@@ -1,0 +1,27 @@
+_repo: Jane-Allen--Center_40908
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40908-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bancroft, Edith
+    gutenberg_agent_id: '1602'
+    url: http://www.gutenberg.org/2009/agents/1602
+description: ''
+gutenberg_issued: '2012-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Basketball stories'
+- !lcsh 'College students -- Juvenile fiction'
+- !lcsh 'Women college students -- Juvenile fiction'
+title: Jane Allen, Center
+url: http://www.gutenberg.org/ebooks/40908
